@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Alligator()
+comment1.params=b\ l
+comment1.target=Alligator(int,\ int)
+comment2.params=b
+comment2.target=void\ setbiteStrength(int)
+comment3.params=l
+comment3.target=void\ addLength(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

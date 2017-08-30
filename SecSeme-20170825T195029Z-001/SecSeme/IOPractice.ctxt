@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=IOPractice
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ IOPractice\ here.\r\n\ \r\n\ @author\ (Jake\ Bales)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ writeToFile()
+comment2.params=
+comment2.target=void\ readFromFile()
+comment3.params=kelson
+comment3.target=void\ printArray(java.util.ArrayList)
+comment4.params=kelson
+comment4.target=void\ arrayToFile(java.util.ArrayList)
+comment5.params=kelson
+comment5.target=void\ fileToArray(java.util.ArrayList)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
