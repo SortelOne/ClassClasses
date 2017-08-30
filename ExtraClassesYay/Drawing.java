@@ -38,11 +38,11 @@ public class Drawing
         sun.setBackground(Color.decode("#efe22b"));
         bgcolorthingy.add(sun, 0);
         //Trunk
-        Rectangle trunk = new Rectangle(400, -10, 10, 410);
+        Rectangle trunk = new Rectangle(380, 400, 50, 450);
         trunk.setBackground(Color.decode("#56391f"));
-        ground.add(trunk, 0);
+        bgcolorthingy.add(trunk, 0);
         //Leaves
-        Triangle leaves = new Triangle(400, 625, 420, 650);
+        Triangle leaves = new Triangle(330, 350, 150, 150);
         leaves.setBackground(Color.decode("#5daf31"));
         bgcolorthingy.add(leaves, 0);
     }
